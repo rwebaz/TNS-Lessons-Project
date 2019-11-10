@@ -5,7 +5,7 @@ navigation_weight: 1
 ---
 # TNS Lessons Project Home Page
 
-{{ site.tagline }}
+{{ site.description }}
 
 ## Table O Contents
 
