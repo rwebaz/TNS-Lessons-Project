@@ -1,12 +1,12 @@
 ---
-title: Code Live
+title: Shell Gist
 layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 description: Place the intro paragraph ie.) the 'synopsis' here ...
-repo: TNS-Lessons-Project
+repo: Shell Lessons Project
 ver_date: 11-19-19
-navigation_weight: 8
-categories: page
+navigation_weight: 9
+categories: template
 ---
 {% include toc.md %}
 
