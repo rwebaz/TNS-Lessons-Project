@@ -3,17 +3,17 @@ title: Home Page
 layout: default
 excerpt: TNS is an acronym for Telerik's Native Script ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
-description_two: Raw Code, Issues, and Sources
 repo: TNS-Lessons-Project
-ver_date: 11-17-19
+ver_date: 11-20-19
 navigation_weight: 1
 categories: page
 ---
+
 {% include toc.md %}
 
 {% include irac-issue-rule-analysis-conclusion.md %}
 
-{% include raw-code-issues-sources.md %}
+{% include sources-and-uses.md %}
 
 #### External Sources
 
